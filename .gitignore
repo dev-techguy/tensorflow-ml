@@ -1,0 +1,10 @@
+
+.gitignore
+app.js
+bin/
+node_modules/
+package-lock.json
+package.json
+public/
+routes/
+.idea
